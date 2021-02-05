@@ -1,0 +1,2 @@
+# bishop
+Solutions to the problems of the book Pattern Recognition and Machine Learning ( Christopher M. Bishop).  Although there is an official solutions manual, it is not complete in some problems. My idea is to provide a very detailed solution guide . Also I will provide some of the scripts to replicate the experiments of the book and some real examples of the algorithms explained in the book. 
